@@ -1,0 +1,256 @@
+body {
+    margin:0;
+    padding: 0;
+    font: 600 16px "Source Sans Pro", sans-serif;
+}
+
+header {
+    width: 100%;
+    height: 250px;
+    background-color:khaki;
+    margin:0;
+}
+
+.well {
+    margin-top: 30px;
+    height: 200px;
+    position: relative;
+    background-color: #000000;
+    border-radius: 30px;
+}
+
+.well-2 {
+    margin-top: 30px;
+    height: 200px;
+    width: 40%;
+    position: absolute;
+    background-color: #ffffff;
+    border-radius: 30px;
+    top: 0px;
+    right: 10px;
+}
+
+p {
+    color: white;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+text-align: center;
+font-size: 18px;
+}
+
+.input-group {
+    font-size: 14px;
+}
+
+.btn {
+    border-radius: 30px;
+    width: 35%;
+    margin-left: 10px;
+}
+
+img {
+    margin-top: 20px;
+    width:50px;
+    height:50px;
+}
+
+.navbar-menu {
+    color: #000000;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+  
+    
+}
+
+.navbar {
+    height: 80px;
+}
+.navbar-menu>a:hover {
+   text-decoration: none;
+}
+
+
+
+.navbar a {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.logotype {
+    width: 30px;
+    height: 30px;
+}
+
+.navbar img {
+    margin-left: 50px;
+}
+
+.navbar h4 {
+    margin-left: 100px;
+    margin-top:-20px;
+    color: rgb(82, 160, 185);
+}
+
+.input-group input {
+    height: 40px;
+    
+}
+
+
+.logotype {
+    margin-top: -5px;
+}
+
+.maessage {
+    margin-top: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.images {
+    height: 220px;
+    width: 100%;
+    border: 2px solid lightgrey;
+    border-radius: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.title {
+    color: #000000;
+    font-size: 14px;
+}
+
+.card {
+    height: 350px;
+    border-radius: 15px;
+}
+
+.author {
+    color: #000000;
+    font-size: 12px;
+}
+
+
+.main {
+    margin-top: 300px;
+}
+
+.universe {
+    height: 500px;
+    width: 100%;
+}
+
+.description {
+    color: #000000;
+    background-color: white;
+}
+
+.field {
+    background-color: white;
+    margin-top: 80px;
+    border:none;
+}
+
+.data {
+    color: lightgrey;
+    font-size: 12px;
+}
+
+.title-2 {
+    color: #000000;
+    font-size: 14px;
+}
+.newBooks {
+    height: 200px;
+    width: 100%;
+    
+    border-radius: 30px;
+}
+
+.author{
+    background-color: white;
+    border: none;
+    margin-left: 70px;
+    width: 200%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.writer {
+    height: 220px;
+    width: 220px;
+    border-radius: 100%;
+    border:8px solid lightgrey;
+}
+
+.secondBlock {
+    margin-left: 200px;
+}
+
+.blog {
+    color: grey;
+    font-size: 12px;
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+   
+}
+
+.comments {
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.shortDesc {
+    font-size: 16px;
+    color: #000000;
+}
+
+
+.thumbnail {
+    border-radius: 30px;
+    border: none;
+    background-color:lightslategray;
+    margin-top: 20px;
+}
+
+.thumbnail img {
+    height: 150px;
+    width: 100px;
+}
+
+.caption {
+    background-color: #ffffff;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.network {
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+}
+
+.footer-center {
+    border-radius: 30px;
+    background-color: lightgray;
+}
+
+.google {
+    width:70%;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.bg {
+    background-color: lightgrey;
+    font-size: 14px;
+   
+}
+
